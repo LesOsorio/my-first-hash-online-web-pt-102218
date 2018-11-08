@@ -1,5 +1,6 @@
-def my_hash(name)
-  my_name => {"Lés"}
+def my_hash(pets)
+  
+
 end
 
 
